@@ -95,4 +95,4 @@ Sau đó mở trình duyệt và truy cập: **[http://localhost:3000](http://lo
 
 ## 📝 Giấy Phép & Đóng Góp
 
-Dự án được phát triển nhằm mục đích phục vụ cộng đồng học tiếng Anh cá nhân. Mọi đóng góp (Pull Request / Issue) đều được hoan nghênh!
+Dự án được phát triển nhằm mục đích phục vụ cộng đồng học tiếng Anh cá nhân. Mọi đóng góp (Pull Request / Issue) đều được hoan nghênh và nếu có bất cứ lỗi gì trong quá trình sử dụng, các bạn hãy vui lòng để lại đóng góp, mình sẽ tiếp thu và khắc phục!
