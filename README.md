@@ -1,7 +1,7 @@
 # 🌟 VocabAI - Ứng Dụng Học Khoảng 2000 Từ Vựng Tiếng Anh Thông Dụng Theo Chủ Đề
 
 <p align="center">
-  <b>Giải pháp toàn diện giúp bạn tra cứu từ vựng đa ngữ cảnh, luyện phản xạ 3 bước và ghi nhớ vĩnh viễn .</b>
+  <b>Giải pháp giúp bạn tra cứu từ vựng đa ngữ cảnh, luyện phản xạ 3 bước và ghi nhớ vĩnh viễn .</b>
 </p>
 
 ---
