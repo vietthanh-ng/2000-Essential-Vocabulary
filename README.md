@@ -59,7 +59,6 @@ npm install
 # 2. Khởi chạy máy chủ phát triển
 npm run dev
 ```
-Sau đó mở trình duyệt và truy cập: **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
