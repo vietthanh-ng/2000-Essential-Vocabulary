@@ -60,7 +60,9 @@ npm install
 npm run dev
 
 ```
-Sau khi Terminal hiển thị thông báo khởi động thành công, mở trình duyệt web và truy cập địa chỉ: `http://localhost:3000`
+Sau khi Terminal hiển thị thông báo khởi động thành công, mở trình duyệt web và truy cập địa chỉ: 
+
+`http://localhost:3000`
 
 ---
 
