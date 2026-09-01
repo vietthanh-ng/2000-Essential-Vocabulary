@@ -1,0 +1,7 @@
+{
+  "geminiApiKey": "",
+  "defaultVoice": "en-US",
+  "dailyGoal": 20,
+  "speechRate": 1,
+  "geminiApiKeys": []
+}
