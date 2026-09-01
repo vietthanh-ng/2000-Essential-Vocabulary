@@ -1,4 +1,4 @@
-# 🌟 VocabAI - Ứng Dụng Học Từ Vựng Tiếng Anh Thông Minh (AI & Spaced Repetition SM-2)
+# 🌟 VocabAI - Ứng Dụng Học Khoảng 2000 Từ Vựng Tiếng Anh Thông Dụng Theo Chủ Đề
 
 <p align="center">
   <b>Giải pháp toàn diện giúp bạn tra cứu từ vựng đa ngữ cảnh, luyện phản xạ 3 bước và ghi nhớ vĩnh viễn với thuật toán SM-2.</b>
@@ -8,13 +8,13 @@
 
 ## 📖 Giới Thiệu
 
-**VocabAI** là ứng dụng web cá nhân cao cấp hỗ trợ học từ vựng tiếng Anh (tích hợp sẵn kho gần **2,000 từ vựng cốt lõi Oxford & IELTS**). Ứng dụng kết hợp giữa sức mạnh của **Google Gemini AI** (để bóc tách ngữ nghĩa, collocations, câu ví dụ thực tế) và thuật toán **SuperMemo SM-2** (lập lịch ôn tập ngắt quãng ngẫu nhiên theo đường cong quên của não bộ).
+**VocabAI** là ứng dụng web cá nhân cao cấp hỗ trợ học từ vựng tiếng Anh (tích hợp sẵn kho gần **2,000 từ vựng cốt lõi Oxford & IELTS**). Ứng dụng kết hợp giữa sức mạnh của **Google Gemini AI** (để bóc tách ngữ nghĩa, collocations, câu ví dụ thực tế).
 
 ---
 
 ## ✨ Tính Năng Nổi Bật
 
-### 1. 🧠 Tra Cứu Từ Vựng Chuyên Sâu AI (Deep Vocabulary Analyzer)
+### 1. 🧠 Tra Cứu Từ Vựng Chuyên Sâu Sử Dụng AI (Deep Vocabulary Analyzer)
 - **Bóc tách đa ngữ cảnh**: Phân tích chính xác sắc thái từ trong các lĩnh vực (Kinh doanh, Học thuật, Đời sống, Công nghệ, Y tế, Pháp lý,...).
 - **Tổng hợp Collocations thực tế**: Liệt kê các cụm từ kết hợp tự nhiên kèm dịch nghĩa và câu ví dụ.
 - **Câu ví dụ chuẩn IELTS**: Tự động tạo 2-3 câu ví dụ học thuật kèm bản dịch tiếng Việt song ngữ.
